@@ -5,7 +5,7 @@ import '../styles/Contact.css';
 function Contact() {
   return (
     <div className='contact'>
-        <div className='leftSide' style={{background : `url(${PizzaLeft})`}}>PizzaLeft</div>
+        <div className='leftSide' style={{background : `url(${PizzaLeft})`}}></div>
         <div className='rightSide'>
             <h1>Contact Us</h1>
             <form>
